@@ -123,7 +123,7 @@
     <!-- The following two margins need to match, with the caveat that
          the second should be negative. The second one ensures that the icons and text
          align despite the additional padding caused by the search bar's card background. -->
-    <dimen name="search_bar_margin">16dp</dimen>
+    <dimen name="search_bar_margin">8dp</dimen>
     <dimen name="search_bar_negative_margin">-16dp</dimen>
 
     <dimen name="search_bar_height">48dp</dimen>
@@ -313,7 +313,7 @@
     <dimen name="suggestion_condition_header_padding_expanded">5dp</dimen>
 
     <!-- Suggestion cards size and padding -->
-    <dimen name="suggestion_card_icon_size">24dp</dimen>
+    <dimen name="suggestion_card_icon_size">22dp</dimen>
     <dimen name="suggestion_card_outer_margin">14dp</dimen>
     <dimen name="suggestion_card_inner_margin">12dp</dimen>
     <dimen name="suggestion_card_padding_bottom_one_card">16dp</dimen>
